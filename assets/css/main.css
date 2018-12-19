@@ -37,9 +37,3 @@ table {
     background-color: blue;
     color:white;
 }
-img {
-    top:10px;
-}
-p{ position: relative;
-    top: 10%;
-}
