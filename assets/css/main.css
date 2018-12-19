@@ -13,16 +13,18 @@ table {
     background-color: rgba(177, 231, 238, 0.76);
     width: 100%;
     height: 600px;
-    text-align: center;
+    text-align: left;
 }
 #t22{ 
-    text-align: center;
+    text-align: left;
 }
-.t11{
+#t11{
     width: 60%;
+    text-align: left;
+    padding-left: 3%;
 }
-#fm , #date , #name{ width: 100%;
-
+#fm , #date , #name{ width: 100%; 
+                      text-align: left;
 }
 #t2g{
     width: 100%;
@@ -36,4 +38,18 @@ table {
 #b1{
     background-color: blue;
     color:white;
+    
+}
+img {
+    width: 80%;
+    height: 80%;
+}
+#ps {
+    text-align: left;
+}
+#t1 #t11 h1 {
+    color: white;
+}
+#par {
+    padding-right: 50px;
 }
