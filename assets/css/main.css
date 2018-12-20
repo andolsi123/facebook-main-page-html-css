@@ -17,11 +17,12 @@ table {
 }
 #t22{ 
     text-align: left;
+    margin-top:-4px;
 }
 #t11{
     width: 60%;
     text-align: left;
-    padding-left: 3%;
+    padding-left: 15%;
 }
 #fm , #date , #name{ width: 100%; 
                       text-align: left;
@@ -41,8 +42,10 @@ table {
     
 }
 img {
-    width: 80%;
-    height: 80%;
+    width: 96%;
+    height: 96%;
+    position: relative;
+    top: -71px;
 }
 #ps {
     text-align: left;
@@ -50,6 +53,25 @@ img {
 #t1 #t11 h1 {
     color: white;
 }
-#par {
-    padding-right: 50px;
+#par1 {
+    padding-right: 10px;
+    margin-top:10px;
+}
+h2{
+    margin-top: -78px;
+}
+#t22 tr{
+    height: 30px;
+}
+#t111 {
+    margin-bottom: 19px;
+}
+#t1111 tr{
+    height: 25px;
+}
+#t111 tr {
+    height: 25px;
+}
+h1 { 
+    font-size: 50px;
 }
